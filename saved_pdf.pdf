@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>List user</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <style>
+        tbody tr td a {
+            color: #00CC00;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class='wrapper'>
+    <div class="container">
+        <div class="col-sm-10 col-sm-push-1">
+            <h2 class="text-center">Bảng chấm công tháng:08 </h2>
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th style="text-align: center">Ngay</th>
+                    <th>Thoi gian online</th>
+                    <th>Thoi gian thoat</th>
+                    <th>Luong </th>
+                </tr>
+                </thead>
+                <tbody>
+                  <tr><td style='text-align: center'>1</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>2</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>3</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>4</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>5</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>6</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>7</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>8</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>9</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>10</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>11</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>12</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>13</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>14</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>15</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>16</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr>-3081 <tr><td style='text-align: center'>17</th><td>15:51:21</td><td>23:52:38</td><td>100</td></tr>17747 <tr><td style='text-align: center'>18</th><td>10:04:13</td><td>20:42:50</td><td>80</td></tr>45323 <tr><td style='text-align: center'>19</th><td>02:24:37</td><td>14:44:39</td><td>80</td></tr>3800 <tr><td style='text-align: center'>20</th><td>13:56:40</td><td>15:19:21</td><td>80</td></tr> <tr><td style='text-align: center'>21</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>22</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>23</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>24</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>25</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>26</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>27</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>28</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>29</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr> <tr><td style='text-align: center'>30</th><td></td><td><a href=''></a></td><td><a href=''></a></td></tr>
+                </tbody>
+        </div>
+    </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
